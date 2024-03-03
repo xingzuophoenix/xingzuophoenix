@@ -1,10 +1,10 @@
-# Hello, I'm Gracy 💙
+# Hello, I'm Gracy 🪐
 
 ⭐️ I'm currently working as a Software Engineer <br> 
 🔷 I'm completed Software Engineering Job Simulation @ Goldman Sachs <br>
 🎨 I like designing, drawing and painting and Playing a Musical Instruments <br>
 👩🏻‍💻 I'm currently learning IoT and Game Theory courses <br>
-✈️ I like Travelling (International Experience) around the world and Adventure sports
+🧳 I like Travelling (International Experience) around the world and Adventure sports
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_butterfly_sonyeo?igsh=dDYxbHcwanR3NjFj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
