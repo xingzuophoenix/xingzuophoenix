@@ -2,7 +2,7 @@
 
 ⭐️ I'm currently working as a Software Engineer <br> 
 ✅ I'm completed Software Engineering Job Simulation @ Goldman Sachs <br>
-🎨 I like designing, drawing and painting and Playing Musical Instruments <br>
+🎨 I like designing, drawing and painting and Playing a Musical Instruments <br>
 ⭐️ I'm currently learning IoT and Game Theory <br>
 ✅ I like Travelling (International Experience) around the world and Adventure sports
 
