@@ -1,4 +1,4 @@
-# Hello, I'm Gracy
+# Hello, I'm Gracy 💙
 
 ⭐️ I'm currently working as a Software Engineer <br> 
 🔷 I'm completed Software Engineering Job Simulation @ Goldman Sachs <br>
