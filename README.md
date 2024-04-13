@@ -1,5 +1,7 @@
 # Hello, I'm Gracy 
-[![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix) Cloud Innovator 
+[![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
+
+#
 
 ⭐️ I'm currently working as a Software Engineer <br> 
 🔷 I'm completed Software Engineering Job Simulation @ Goldman Sachs <br>
