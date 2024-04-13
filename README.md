@@ -1,4 +1,5 @@
 # Hello, I'm Gracy 
+[![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
 
 ⭐️ I'm currently working as a Software Engineer <br> 
 🔷 I'm completed Software Engineering Job Simulation @ Goldman Sachs <br>
@@ -7,8 +8,7 @@
 ✈️ I like Travelling (International Experience) around the world and Adventure sports
 
 ## 🌐 Socials
-
-[![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100048192261872&mibextid=ZbWKwL)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xingzuophoenix?si=R2t23avQ6-oiWfkG)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_butterfly_sonyeo?igsh=dDYxbHcwanR3NjFj)
