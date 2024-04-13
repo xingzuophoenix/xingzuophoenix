@@ -6,9 +6,9 @@
 👩🏻‍💻 I'm currently learning IoT and Game Theory courses <br> 
 ✈️ I like Travelling (International Experience) around the world and Adventure sports
 
-
-[![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
 #
+[![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
+
 [Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/d890f218-f503-421d-86b8-9abd112ab8fa)
 
 [Google Cloud Community](https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/513511)
