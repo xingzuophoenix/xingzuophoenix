@@ -1,4 +1,4 @@
-Hello, I'm Gracy 
+# Hello, I'm Gracy 
 [![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
 
 ⭐️ I'm currently working as a Software Engineer <br> 
