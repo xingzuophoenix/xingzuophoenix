@@ -6,8 +6,10 @@
 👩🏻‍💻 I'm currently learning IoT and Game Theory courses <br> 
 ✈️ I like Travelling (International Experience) around the world and Adventure sports
 
-#
+
 [![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
+
+#
 
 [Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/d890f218-f503-421d-86b8-9abd112ab8fa)
 
@@ -18,7 +20,7 @@
 [GDSC Community](https://gdsc.community.dev/u/m4t8z6/#/mytickets)
 
 [Google Play Store](https://playacademy.exceedlms.com/profiles/gracyunknown7e9abdab)
-#
+
 
 ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
