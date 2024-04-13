@@ -1,12 +1,5 @@
 # Hello, I'm Gracy 
 [![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)
-#
-
-[![Cloud Skills Boost](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://www.cloudskillsboost.google/public_profiles/d890f218-f503-421d-86b8-9abd112ab8fa)
-[![Google Cloud Community](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/513511)
-[![GDG Community](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://gdg.community.dev/u/m6pngc/#/about)
-[![GDSC Community](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://gdsc.community.dev/u/m4t8z6/#/mytickets)
-[![Google Play Store](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://play.google.com/store/apps/details?id=com.longtukorea.hdqy)
 
 ⭐️ I'm currently working as a Software Engineer <br> 
 🔷 I'm completed Software Engineering Job Simulation @ Goldman Sachs <br>
