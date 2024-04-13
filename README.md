@@ -9,7 +9,7 @@
 
 🌐 [GDSC Community](https://gdsc.community.dev/u/m4t8z6/#/mytickets)
 
-🌐 [Google Play Store](https://play.google.com/store/apps/details?id=com.longtukorea.hdqy)
+🌐 [Google Play Store](https://playacademy.exceedlms.com/profiles/gracyunknown7e9abdab)
 #
 
 ⭐️ I'm currently working as a Software Engineer <br> 
