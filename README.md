@@ -20,7 +20,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xingzuophoenix&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xingzuophoenix&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-#
+---
+
 [![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)    
 
 [Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/d890f218-f503-421d-86b8-9abd112ab8fa)
@@ -32,7 +33,6 @@
 [GDSC Community](https://gdsc.community.dev/u/m4t8z6/#/mytickets)
 
 [Google Play Store](https://playacademy.exceedlms.com/profiles/gracyunknown7e9abdab)
-#
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xingzuophoenixicon=0&color=0)](https://visitcount.itsvg.in)
