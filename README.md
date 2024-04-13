@@ -8,6 +8,7 @@
 
 ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-%230004FF.svg?logo=Naver&logoColor=white)](https://m.blog.naver.com/rencidenuwang_)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/xingzuophoenix?t=CwG_TDVKI-JulT2DYrdR_Q&s=09)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100048192261872&mibextid=ZbWKwL)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xingzuophoenix?si=R2t23avQ6-oiWfkG)
