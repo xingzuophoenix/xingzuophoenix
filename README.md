@@ -27,9 +27,13 @@
 
 [![Google](https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg)](https://g.dev/xingzuophoenix)  
 
-[Cloud Community](https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/513511)  
+[Google Cloud Community](https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/513511) 
+
+[![Google Product Experts](https://img.shields.io/badge/Google%20Product%20Experts-%234285F4.svg?logo=Google&logoColor=white)](https://productexperts.withgoogle.com/profile) 
 
 [Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/d890f218-f503-421d-86b8-9abd112ab8fa)
+
+[![Google Support](https://img.shields.io/badge/Google%20Support-%234285F4.svg?logo=Google&logoColor=white)](https://support.google.com/profile/269255865?sjid=16300528771687921621-NC)
 
 [GDSC Community](https://gdsc.community.dev/u/m4t8z6/#/mytickets)
 
