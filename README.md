@@ -18,7 +18,7 @@
 
 # Google 
 
-[![Google Product Experts](https://img.shields.io/badge/Google%20Product%20Experts-%234285F4.svg?logo=Google&logoColor=white)](https://productexperts.withgoogle.com/profile)  [![Google Support](https://img.shields.io/badge/Google%20Support-%234285F4.svg?logo=Google&logoColor=white)](https://support.google.com/profile/269255865?sjid=16300528771687921621-NC)
+[![Google Product Experts](https://img.shields.io/badge/Google%20Product%20Experts-%234285F4.svg?logo=Google&logoColor=white)](https://productexperts.withgoogle.com/profile)      [![Google Support](https://img.shields.io/badge/Google%20Support-%234285F4.svg?logo=Google&logoColor=white)](https://support.google.com/profile/269255865?sjid=16300528771687921621-NC)
 
 # Technologies
 
