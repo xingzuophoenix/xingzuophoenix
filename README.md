@@ -2,7 +2,7 @@
 
 🔷 I'm currently working as a Founder & CEO of Chavmin <br> 
 ⭐ I'm a Google Cloud Innovator at GDSC & Google Product Experts of Google Groups and Google Play <br>
-🎨 I like designing, drawing and painting and Playing a Musical Instruments <br>
+🎨 I'm passionate about designing, drawing and painting and I like Playing a Musical Instruments <br>
 👩🏻‍💻 I'm currently learning IoT and Game Theory courses <br> 
 ✈️ I like Travelling (International Experience) around the world and Adventure sports
 
