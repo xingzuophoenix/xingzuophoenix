@@ -42,6 +42,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=flat&logo=xampp&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Gemini 1.5 Pro](https://img.shields.io/badge/Gemini_1.5_Pro-Your_Color_Here?style=flat&logo=Your_Logo_Here&logoColor=white)
+![Vertax AI](https://img.shields.io/badge/Vertax_AI-Your_Color_Here?style=flat&logo=Your_Logo_Here&logoColor=white)
 
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=xingzuophoenix&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
