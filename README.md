@@ -15,6 +15,8 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/23147890/gracy)
 [![Google for Developers](https://img.shields.io/badge/Google%20for%20Developers-%234285F4.svg?logo=Google&logoColor=white)](https://g.dev/xingzuophoenix)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/xingzuophoenix)
+[![Behance](https://img.shields.io/badge/Behance-%23176AFF.svg?logo=Behance&logoColor=white)](https://www.behance.net/gracygracy1)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=Dev.to&logoColor=white)](https://dev.to/rencidenuwang)
 
 
 # Google 
