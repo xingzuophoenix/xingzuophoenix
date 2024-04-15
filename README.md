@@ -14,7 +14,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/31a4uaonmbapotl6jiuq42os3zba?si=la6TdnhOTBG4BgiBE_xzUA)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/23147890/gracy)
 [![Google for Developers](https://img.shields.io/badge/Google%20for%20Developers-%234285F4.svg?logo=Google&logoColor=white)](https://g.dev/xingzuophoenix)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=Discord&logoColor=white)](https://discord.com/xingzuophoenix)
 
 
 # Google 
