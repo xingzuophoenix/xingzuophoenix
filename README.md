@@ -44,5 +44,4 @@
 [Google Play Store](https://playacademy.exceedlms.com/profiles/gracyunknown7e9abdab)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xingzuophoenixicon=0&color=0)](https://visitcount.itsvg.in)
-   
+[![Visit Count](https://visitcount.itsvg.in/api?id=xingzuophoenixicon=0&color=0)](https://visitcount.itsvg.in)
