@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@xingzuophoenix?si=R2t23avQ6-oiWfkG)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_butterfly_sonyeo?igsh=dDYxbHcwanR3NjFj)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/31a4uaonmbapotl6jiuq42os3zba?si=la6TdnhOTBG4BgiBE_xzUA)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/23147890/gracy)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/23147890/gracy)[![Google for Developers](https://img.shields.io/badge/Google%20for%20Developers-%234285F4.svg?logo=Google&logoColor=white)](https://g.dev/xingzuophoenix)
 
 
 
