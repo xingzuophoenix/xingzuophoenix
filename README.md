@@ -1,4 +1,5 @@
 # Hello, I'm Gracy 
+[![](https://visitcount.itsvg.in/api?id=xingzuophoenix&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
 🔷 I'm currently working as a Founder & CEO of Chavmin <br> 
 ⭐ I'm a Google Cloud Innovator at GDSC & Google Product Experts of Google Groups and Google Play <br>
