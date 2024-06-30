@@ -69,5 +69,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=xingzuophoenix&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/POST_ID/" data-instgrm-version="12"></blockquote>
-<script async defer src="//www.instagram.com/embed.js"></script>
