@@ -1,10 +1,10 @@
 # Hello, I'm Gracy
 
-🔷 I'm currently working as a Founder & CEO at Chavmin <br> 
+🔷 I'm currently working as a Intern at CodSoft <br> 
 ⭐ I'm a Google Cloud Innovator at GDSC & Google Product Experts of Google Groups and Google Play <br>
 🎨 I'm passionate about designing, drawing and painting and I like Playing a Musical Instruments <br>
 👩🏻‍💻 I'm currently learning IoT and Game Theory courses <br> 
-✈️ I like Travelling (International Experience) around the world and Adventure sports
+✈️ I like Travelling around the world and Adventure sports
 
 ## Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
