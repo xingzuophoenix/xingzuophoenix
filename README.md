@@ -1,5 +1,6 @@
 # Hello, I'm Gracy
 
+
 ⭐ Google Cloud Innovator and active member of Google Maps Platform Innovators, Tech Equity Collective, and WTM, contributing to community growth.
 
 🎨 Passionate about designing, drawing, painting, and I like playing musical instruments.
@@ -7,6 +8,7 @@
 👩🏻‍💻 I'm Currently learning IoT and Game Theory courses while 
 
 ✈️ I like traveling,adventure sports, and exploring new cultures around the world
+
 
 ## Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracy-c-8642281b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
