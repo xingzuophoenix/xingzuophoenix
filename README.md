@@ -1,12 +1,10 @@
 # Hello, I'm Gracy
 
 
-⭐ Google Cloud Innovator and active member of Google Maps Platform Innovators, Tech Equity Collective, and WTM, contributing to community growth.
-
-🎨 Passionate about designing, drawing, painting, and I like playing musical instruments.
-
-👩🏻‍💻 I'm Currently learning IoT and Game Theory courses while 
-
+🔷 Currently working as an intern at CodSoft, focusing on enhancing technical skills
+⭐ Google Cloud Innovator and member of Google Developer Program, learning about web development, cloud computing, and AI to improve my skills
+🎨 Passionate about designing, drawing, painting, and I like playing musical instruments
+👩🏻‍💻 I'm Currently learning IoT and Game Theory courses 
 ✈️ I like traveling,adventure sports, and exploring new cultures around the world
 
 
